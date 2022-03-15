@@ -1,6 +1,9 @@
 test
-branch on
+<<<<<<< HEAD
 
 1
 2
 3
+=======
+branch off
+>>>>>>> main
