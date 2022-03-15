@@ -1,9 +1,5 @@
 test
-<<<<<<< HEAD
-
-1
-2
-3
+branch off
 =======
 branch off
 >>>>>>> main
