@@ -2,6 +2,6 @@ test
 
 main
 
-2 = merge
+3 = edit
 
 merge branch
